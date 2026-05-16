@@ -196,13 +196,13 @@ URL: http://localhost/ATTSHOP/wp-admin
 
 ## 🎬 Link video demo
 
-> _(Bạn tự thêm link video vào đây)_
+🔗
 
 ---
 
 ## 🌍 Link online đã deploy
 
-🔗 https://attshop.infinityfreeapp.com
+🔗 https://attshop.infinityfreeapp.com/my-account/
 
 ---
 
